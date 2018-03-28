@@ -8,7 +8,9 @@
 
 
 
-出处：geb,前言
+出处：geb,前言  
+[Canon (music) - Wikipedia](https://en.wikipedia.org/wiki/Canon_(music))
+
 
 ### 术语卡
 术语：赋格(fugue)
